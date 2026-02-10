@@ -1,2 +1,17 @@
-# stm-sbus
-SBUS decoder on STM32G431 using LPUART1
+stm32-sbus-g431/
+│
+├── Core/
+│   ├── Inc/
+│   └── Src/
+│
+├── IAR/
+│   ├── Project.eww
+│   ├── Project.ewp
+│   ├── Project.ewd
+│   └── settings/
+│
+├── Drivers/
+│   └── CMSIS/
+│
+├── README.md
+└── .gitignore
